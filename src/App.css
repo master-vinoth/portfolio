@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple);
+
+body, html {
+    font-family: 'shadow-multiple', sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+.join{
+    font-family:  'shadow-multiple', sans-serif;
+}
